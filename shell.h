@@ -30,6 +30,8 @@ char *_strdup(char *str);
 int shell_cd(char **args);
 int shell_exit(char **args);
 int shell_env(char **args);
+void env(char **tokenized_command);
+void quit(char **tokenized_command);
 
 /* Utility functions */
 void execute_external_command(char **args);
