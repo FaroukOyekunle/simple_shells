@@ -31,6 +31,10 @@ int shell_cd(char **args);
 int shell_exit(char **args);
 int shell_env(char **args);
 
+/* Function prototypes for built-in functions */
+void env(char **tokenized_command);
+void quit(char **tokenized_command);
+
 /* Utility functions */
 void execute_external_command(char **args);
 void handle_sigint(int signum);
