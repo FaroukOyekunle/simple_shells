@@ -7,7 +7,6 @@
 -   Project will start Jul 12, 2023 6:00 AM, must end by Jul 27, 2023 6:00 AM (in 10 days)
 -   Checker will be released at Jul 26, 2023 1:12 AM
 -   An auto review will be launched at the deadline
-   
 
 Concepts
 --------
