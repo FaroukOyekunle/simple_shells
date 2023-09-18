@@ -2,10 +2,10 @@
 *.d
 
 # Object files
+*.obj
 *.o
 *.c
 *.ko
-*.obj
 *.elf
 
 # Linker output
