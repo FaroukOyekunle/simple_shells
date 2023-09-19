@@ -4,8 +4,8 @@
 # Object files
 *.obj
 *.o
-*.c
 *.ko
+*.c
 *.elf
 
 # Linker output
