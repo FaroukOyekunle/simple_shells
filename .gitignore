@@ -10,8 +10,8 @@
 
 # Linker output
 *.map
-*.exp
 *.ilk
+*.exp
 
 # Precompiled Headers
 *.gch
